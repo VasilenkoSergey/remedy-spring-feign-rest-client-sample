@@ -1,0 +1,1 @@
+# Sample BMC Remedy rest client plugin using Feign library Spring Framework provided by pluginsvr
